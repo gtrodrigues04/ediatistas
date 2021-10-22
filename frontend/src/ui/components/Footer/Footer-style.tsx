@@ -28,6 +28,7 @@ export const AppList = styled('ul')`
     list-style-type: none;
     display: flex;
     padding: 0;
+    justify-content: space-around;
  
     img {
         width: 122px;
